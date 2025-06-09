@@ -1,0 +1,15 @@
+C:\Users\teh75\source\repos\Pharmacy Management System\Pharmacy Management System\bin\x64\Debug\Pharmacy.accdb
+C:\Users\teh75\source\repos\Pharmacy Management System\Pharmacy Management System\bin\x64\Debug\Pharmacy Management System.exe.config
+C:\Users\teh75\source\repos\Pharmacy Management System\Pharmacy Management System\bin\x64\Debug\Pharmacy Management System.exe
+C:\Users\teh75\source\repos\Pharmacy Management System\Pharmacy Management System\bin\x64\Debug\Pharmacy Management System.pdb
+C:\Users\teh75\source\repos\Pharmacy Management System\Pharmacy Management System\obj\x64\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+C:\Users\teh75\source\repos\Pharmacy Management System\Pharmacy Management System\obj\x64\Debug\Pharmacy_Management_System.AddProduct.resources
+C:\Users\teh75\source\repos\Pharmacy Management System\Pharmacy Management System\obj\x64\Debug\Pharmacy_Management_System.Addworker.resources
+C:\Users\teh75\source\repos\Pharmacy Management System\Pharmacy Management System\obj\x64\Debug\Pharmacy_Management_System.Database.resources
+C:\Users\teh75\source\repos\Pharmacy Management System\Pharmacy Management System\obj\x64\Debug\Pharmacy_Management_System.Form1.resources
+C:\Users\teh75\source\repos\Pharmacy Management System\Pharmacy Management System\obj\x64\Debug\Pharmacy_Management_System.MainForm.resources
+C:\Users\teh75\source\repos\Pharmacy Management System\Pharmacy Management System\obj\x64\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\teh75\source\repos\Pharmacy Management System\Pharmacy Management System\obj\x64\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+C:\Users\teh75\source\repos\Pharmacy Management System\Pharmacy Management System\obj\x64\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+C:\Users\teh75\source\repos\Pharmacy Management System\Pharmacy Management System\obj\x64\Debug\Pharmacy Management System.exe
+C:\Users\teh75\source\repos\Pharmacy Management System\Pharmacy Management System\obj\x64\Debug\Pharmacy Management System.pdb
