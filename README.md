@@ -1,3 +1,2 @@
-# This is my Window Programming subject project
-
-this is Pharmacy Management System by using C# ide and using microsoft access as database (individual project)
+# Sticky Notes – Window Programming Project
+This is a individual project developed during my Window Programming subject for the Diploma in Information Technology course. The project is a Hospital-management system application with Microsoft Access used as the database management tool.
